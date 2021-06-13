@@ -50,10 +50,10 @@
         <div class="row">
             <div class="col-3">
             <div class="card">
-                <img class="card-img-top" src="blob:https://web.whatsapp.com/54b7e782-803c-41b6-ad6c-95145f7b98ef" alt="">
+                <img class="card-img-top" src="img/termo.png" alt="">
                 <div class="card-body">
-                    <h5 class="card-title">Titulo</h5>
-                    <p class="card-text">content</p>
+                    <h5 class="card-title">Precio</h5>
+                    <p class="card-text"> $ 200.50</p>
                     <button class="btn btn-primary" type="button">COMPRAR</button>
                 </div>
             </div>
@@ -62,8 +62,8 @@
             <div class="card">
                 <img class="card-img-top" src="https://static.iris.net.co/soho/upload/images/2020/2/10/61074_1.jpg" alt="">
                 <div class="card-body">
-                    <h5 class="card-title">Titulo 2</h5>
-                    <p class="card-text">content 2</p>
+                    <h5 class="card-title">Precio</h5>
+                    <p class="card-text">$ 250</p>
                 </div>
             </div>
         </div>
